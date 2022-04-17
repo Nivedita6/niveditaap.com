@@ -1,1 +1,3 @@
-Hi this is my personal portfolio.
+# Student portfolio
+
+Hi! Welcome to my personal portfolio.
